@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.IntegrationTests\\TheList.TechnicalChallenge.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\TheList.TechnicalChallenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\TheList.TechnicalChallenge.Application.csproj",
+        "projectName": "TheList.TechnicalChallenge.Application",
+        "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\TheList.TechnicalChallenge.Application.csproj",
+        "packagesPath": "C:\\Users\\Joemerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joemerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rydoo.pkgs.visualstudio.com/_packaging/ToolsFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj": {
+                "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj",
+        "projectName": "TheList.TechnicalChallenge.Core",
+        "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj",
+        "packagesPath": "C:\\Users\\Joemerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joemerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rydoo.pkgs.visualstudio.com/_packaging/ToolsFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\TheList.TechnicalChallenge.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\TheList.TechnicalChallenge.Infrastructure.csproj",
+        "projectName": "TheList.TechnicalChallenge.Infrastructure",
+        "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\TheList.TechnicalChallenge.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Joemerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joemerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rydoo.pkgs.visualstudio.com/_packaging/ToolsFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj": {
+                "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Core\\TheList.TechnicalChallenge.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.IntegrationTests\\TheList.TechnicalChallenge.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.IntegrationTests\\TheList.TechnicalChallenge.IntegrationTests.csproj",
+        "projectName": "TheList.TechnicalChallenge.IntegrationTests",
+        "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.IntegrationTests\\TheList.TechnicalChallenge.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Joemerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joemerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rydoo.pkgs.visualstudio.com/_packaging/ToolsFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.csproj": {
+                "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[3.1.16, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.csproj",
+        "projectName": "TheList.TechnicalChallenge",
+        "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.csproj",
+        "packagesPath": "C:\\Users\\Joemerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joemerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rydoo.pkgs.visualstudio.com/_packaging/ToolsFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\TheList.TechnicalChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Application\\TheList.TechnicalChallenge.Application.csproj"
+              },
+              "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\TheList.TechnicalChallenge.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Joemerson\\Downloads\\thelisttechchallenge\\TheList.TechnicalChallenge\\TheList.TechnicalChallenge.Infrastructure\\TheList.TechnicalChallenge.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

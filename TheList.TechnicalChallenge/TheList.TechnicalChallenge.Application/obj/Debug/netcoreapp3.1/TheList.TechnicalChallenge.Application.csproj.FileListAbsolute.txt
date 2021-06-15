@@ -1,0 +1,12 @@
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Core.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.csprojAssemblyReference.cache
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.AssemblyInfoInputs.cache
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.AssemblyInfo.cs
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.deps.json
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.pdb
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Core.pdb
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.csproj.CopyComplete
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.pdb
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Application\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Application.csproj.CoreCompileInputs.cache

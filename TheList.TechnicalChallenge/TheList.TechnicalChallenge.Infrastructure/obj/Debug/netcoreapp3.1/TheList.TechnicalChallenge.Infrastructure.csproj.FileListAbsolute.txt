@@ -1,0 +1,12 @@
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Core.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.deps.json
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.pdb
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\bin\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Core.pdb
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.csproj.CopyComplete
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.dll
+C:\Users\Joemerson\Downloads\thelisttechchallenge\TheList.TechnicalChallenge\TheList.TechnicalChallenge.Infrastructure\obj\Debug\netcoreapp3.1\TheList.TechnicalChallenge.Infrastructure.pdb
